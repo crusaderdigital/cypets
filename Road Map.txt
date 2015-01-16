@@ -7,17 +7,29 @@ Load Background
 Load Login Button
 Login Button Changes Scene to Scene 3
 
-Scene 3.) Home Page
+Scene 3.) Home Scene
 Load Character
 Load Character Items
 
 Top Bar
+-Account Name
+-Account Lv
+-Exp Bar
 -Energy Bar w/ Timer
+-Currency Ammount
+-Real Currency Ammount
 
-Bottom Menu
--Train Button > Loads Train Screen
+Bottom Navigation 
+-Home > Change to Home Scene
+-Train Button > Change to Scene
 -Sleep Button > Makes Character Rest
+-Town Button > Change to Scenes
+-Friends Button > Friend List
+-Shop Button > Real Currency 
 
 
-
-Scene 4.) 
+Scene 4.) Train Scene
+Button 1 > Mini Game 1
+Button 2 > Mini Game 2
+Button 3 > Mini Game 3
+Button 4 > Mini Game 4
