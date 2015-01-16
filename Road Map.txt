@@ -1,0 +1,17 @@
+Scene 1.) Loading Screen
+
+
+
+Scene 2.) Login Screen
+
+
+
+Scene 3.) Home Page
+Energy Bar w/ Timer
+
+
+
+
+
+
+Scene 4.) 
