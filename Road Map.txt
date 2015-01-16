@@ -1,16 +1,22 @@
 Scene 1.) Loading Screen
-
-
+Auto Loads resources
+Auto Changes to Scene 2 on completion
 
 Scene 2.) Login Screen
-
-
+Load Background
+Load Login Button
+Login Button Changes Scene to Scene 3
 
 Scene 3.) Home Page
-Energy Bar w/ Timer
+Load Character
+Load Character Items
 
+Top Bar
+-Energy Bar w/ Timer
 
-
+Bottom Menu
+-Train Button > Loads Train Screen
+-Sleep Button > Makes Character Rest
 
 
 
